@@ -6,7 +6,7 @@ An interactive and responsive counter app built with **React + TypeScript** and 
 
 ## 🚀 Live Demo
 
-* 🌐 **Live Site URL**: [View it in action](https://counter-app-sanya.vercel.app/)
+* 🌐 **Live Site URL**: [View it in action](https://counter-app-steel-pi.vercel.app/)
 * 💻 **Source Code**: [GitHub Repository](https://github.com/SanyaShresta25/Counter-App)
 
 ---
