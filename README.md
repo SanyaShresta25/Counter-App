@@ -32,7 +32,6 @@ An interactive and responsive counter app built with **React + TypeScript** and 
 * ➖ **Decrement Button** – Decreases the count (never below `0`)
 * 🔁 **Reset Button** – Resets the counter to `0`
 * 🔧 **Custom Increment Input** – User-defined increment value (default is `1`)
-* ❤️ **Footer Tagline** – Personalized message: *"Made with ❤️ by Sanya Shresta Jathanna"*
 
 ---
 
